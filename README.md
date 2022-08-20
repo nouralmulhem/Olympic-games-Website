@@ -45,3 +45,4 @@ For Demo, you could log in as username:Ali_Gamal    password:12345
 2. Know his opponents
 3. See the whole results of the tournament till now
 4. Rate referees
+
